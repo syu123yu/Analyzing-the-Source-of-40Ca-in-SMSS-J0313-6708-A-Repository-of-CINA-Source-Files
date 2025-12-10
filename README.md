@@ -1,0 +1,2 @@
+# Analyzing-the-Source-of-40Ca-in-SMSS-J0313-6708-A-Repository-of-CINA-Source-Files
+The Computational Infrastructure for Nuclear Astrophysics (CINA) is a state of the art tool based in Java that allows nuclear astrophysicists to run simulations with a variety of settings. This repository will contain my contributions to the project, including simulation results and visualizations, MATLAB visualization code,  settings and more.
